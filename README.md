@@ -31,4 +31,8 @@ Conclusion:
 In conclusion, this project successfully implemented a U-Net-based deep learning model for polyp segmentation in medical images. Despite certain challenges, the model showed promising results, laying the groundwork for further advancements in computer-aided diagnosis systems for gastrointestinal diseases.
 
 This report provides a basic overview of a typical approach to using the U-Net architecture for polyp segmentation, highlighting key steps, challenges, results, and future recommendations in such a project.
+![Screenshot 2023-11-30 153952](https://github.com/apandey007/PolypSegmentationByUsingU-net/assets/112889800/6f4d795e-4ebc-4115-9ce3-c7d6106a759b)
+![Screenshot 2023-11-30 154026](https://github.com/apandey007/PolypSegmentationByUsingU-net/assets/112889800/a2caf2c3-c6f9-4460-8dc2-04a460526470)
+![Screenshot 2023-11-30 154111](https://github.com/apandey007/PolypSegmentationByUsingU-net/assets/112889800/12a801d4-5133-4e66-9bd8-6df61db7837f)
+![Screenshot 2023-11-30 154217](https://github.com/apandey007/PolypSegmentationByUsingU-net/assets/112889800/2c67fa46-f1af-47ec-931a-65f8da54fe41)
 
